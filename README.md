@@ -4,7 +4,7 @@ Amazon Plugin for Jeedom
 
 ![Screenshot](amazing_icon.png)
 
-##Installation:
+## Installation:
 * Télécharger le zip en cliquant sur "clone or download" à droite  
 * Extraire le fichier zip  
 * Renommer le dossier "amazing-plugin-master" en "amazing"  
