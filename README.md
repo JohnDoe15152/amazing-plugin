@@ -1,6 +1,7 @@
 # Amazing
 Amazon Plugin for Jeedom
-# v1.0.3 (beta)
+# v1.0.3 (beta)  
+Dernière mise a jour: 19/04/2020 23h07
 
 ![Screenshot](amazing_icon.png)
 
