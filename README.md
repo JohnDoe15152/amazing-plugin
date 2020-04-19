@@ -1,5 +1,5 @@
-# amazing-plugin
-# Amazon Plugin for Jeedom
+# Amazing
+Amazon Plugin for Jeedom
 # v1.0.3 (beta)
 
 ![Screenshot](amazing_icon.png)
